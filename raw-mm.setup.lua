@@ -479,8 +479,8 @@ sk.overhauldata = {
   slickness      = { newbalances = {"steam"}, oldbalances = {"herb"}},
   blind          = { newbalances = {"wafer"}, oldbalances = {"herb"}},
   trueblind      = { newbalances = {"wafer"}, oldbalances = {"herb"}},
-  deaf           = { newbalances = {"wafer"}, oldbalances = {"herb"}},
-  truedeaf       = { newbalances = {"wafer"}, oldbalances = {"herb"}},
+  deaf           = { newblanaces = {"wafer"}, oldbalances = {"herb"}},
+  truedeaf       = { newblanaces = {"wafer"}, oldbalances = {"herb"}},
 
 }
 sk.overhaulredirects = {}

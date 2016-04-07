@@ -45,7 +45,7 @@ empty.eat_wafer = function()
 end
 
 empty.eat_earwort = function()
-  sk.lostbal_wafer()
+  sk.lostbal_herb()
   defences.got("truedeaf")
   removeaff("attraction")
 end
@@ -76,7 +76,7 @@ empty.eat_myrtle = function()
 end
 
 empty.eat_faeleaf = function ()
-  sk.lostbal_wafer()
+  sk.lostbal_herb()
   defences.got("trueblind")
 end
 

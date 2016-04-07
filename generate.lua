@@ -42,7 +42,7 @@ local version = args.release
 local doall   = args.release ~= "false"
 local own     = args.own
 local defaultaddons = {
-  "peopletracker", "demesne", "namedb", "harvester", "healing", "influencer", "plsorter",
+  "peopletracker", "demesne", "namedb", "healing",
   aeromancer = "meldtracker",
   aquamancer = "meldtracker",
   blacktalon = {"meldtracker", "carriontracker"},
